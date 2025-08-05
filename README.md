@@ -17,7 +17,7 @@ Hey Jinny
 <body>
   <script>
     function startGame() {
-      const question = "나랑 데이트할래?";
+      const question = Hey Jinny "나랑 데이트할래?";
       const yesButton = "좋아";
       const noButton = "아니";
 
