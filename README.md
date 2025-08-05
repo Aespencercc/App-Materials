@@ -1,5 +1,4 @@
-# App-Materials
-Little game
+
 <!DOCTYPE html>
 <html lang="ko">
 <head>
@@ -17,7 +16,7 @@ Hey Jinny
 <body>
   <script>
     function startGame() {
-      const question = Hey Jinny "나랑 데이트할래?";
+      const question = "Hey Jinny 나랑 데이트할래?";
       const yesButton = "좋아";
       const noButton = "아니";
 
